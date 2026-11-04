@@ -56,7 +56,7 @@ One of my dogs has hypothyroidism and both have skin issues. Weight, diet, medic
 
 - Tap **🐾 로그인 없이 둘러보기** on the first screen. No account needed.
 - The demo shows Leo and Ami's **real photos and weights**, shared on purpose. Meals, walks, medications, two years of checkups, and expenses are **sample data**, labelled as such.
-- Everyone shares one demo account, so records may change while you look. Photo uploads, receipt scanning, and AI analysis are off there, and the dogs' profiles are read-only.
+- Everyone shares one demo account, so new records from other visitors may appear. You can add records and use the one-tap buttons, but not edit or delete them. Leo and Ami's profiles and weights are read-only. Photo uploads, receipt scanning, and AI analysis are off there.
 
 ## How I build it
 
