@@ -32,7 +32,7 @@ The app screens are in Korean. Button names are quoted as they appear on screen,
 1. Open the [live app](https://oraeorae-4mnbzwnkgq-uc.a.run.app).
 2. Tap **🐾 로그인 없이 둘러보기** (“look around without logging in”).
 3. On Home, tap **🐾 오늘도 평소대로** (“same as usual today”).
-4. Open the **건강** (“health”) tab to see two years of sample checkups side by side.
+4. Open the **건강** (“health”) tab to see sample checkups side by side.
 
 That's the core. The rest of the tabs are in the tour below.
 
@@ -70,9 +70,9 @@ Typing every meal and walk for each dog is why I stopped logging before. Here, t
 |---|---|---|
 | Home | **A routine keeper** | **🐾 오늘도 평소대로** fills in each dog's usual food (in grams), walks and supplements. **🐾 지금 산책 다녀옴** logs a walk. |
 | **오늘** (“today”) | **A daily logbook** | Change only what was different; both dogs' weights side by side. |
-| **체중** (“weight”) | **A weight coach** | Trend chart, target line, change since the last weigh-in. Daily coach cards suggest a next step from the last 7 days of weight, food and walks (Gemini, with a rule-based fallback). |
+| **체중** (“weight”) | **A weight coach** | Trend chart, target line, change since the last weigh-in. Daily coach cards suggest a next step from recent weight, food and walks (Gemini, with a rule-based fallback). |
 | **건강** (“health”) | **A records folder** | Yearly checkups side by side, a trend chart per value, medications, vaccines, vet visits, and skin photos by body part. |
-| **비용** (“expenses”) | **A household bookkeeper** | Receipt scan, monthly comparison, per-dog filter, category breakdown, 6-month trend. |
+| **비용** (“expenses”) | **A household bookkeeper** | Receipt scan, monthly comparison, per-dog filter, category breakdown, trend over the months. |
 
 ![OraeOrae screens: one-tap routine and walk, daily log, weight trend, expenses by month and by dog](images/screens.png)
 
@@ -82,7 +82,7 @@ It installs on a phone (PWA) with Google sign-in.
 
 ## About the demo
 
-- The demo shows Leo and Ami's **real photos and weights**, shared on purpose. Meals, walks, medications, two years of checkups, and expenses are **sample data**, labelled as such.
+- The demo shows Leo and Ami's **real photos and weights**, shared on purpose. Meals, walks, medications, checkups, and expenses are **sample data**, labelled as such.
 - Everyone shares one demo account, so new records from other visitors may appear. You can add records and use the one-tap buttons, but not edit or delete them. Leo and Ami's profiles and weights are read-only. Photo uploads, receipt scanning, and AI analysis are off there.
 
 ## How it's built
